@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for work ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...https://www.linkedin.com/in/joseph--walsh/
+
 <!--
 **NottheUnicorn/NottheUnicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
