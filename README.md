@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m Always Learning, trying to create elogant code 
 - 📫 How to reach me: ...https://www.linkedin.com/in/joseph--walsh/
 - 👯 I’m looking to collaborate on ...anything
 
